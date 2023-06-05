@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Walking",
+      "request": "launch",
+      "mainClass": "exam2.Walking",
+      "projectName": "study_626bcc5c"
+    },
+    {
+      "type": "java",
       "name": "Meth02",
       "request": "launch",
       "mainClass": "ex04.Meth02",
